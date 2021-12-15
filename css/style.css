@@ -1,0 +1,75 @@
+html{
+    font-size: 62.5% ;
+    scroll-behavior: smooth;
+    background-image: url(https://storage-asset.msi.com/global/picture/wallpaper/wallpaper_162070056595623a083bab267f63254261f1f938e4.jpeg) ;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+    vertical-align:middle;
+}
+
+body{
+    font: 1.6rem arial;
+    margin: 0;
+}
+
+
+ol, ul, li{
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+    color: rgb(177, 14, 14);
+}
+
+h2{
+    margin: 0;
+    padding: 1em;
+    list-style: none;
+    text-align: center;
+    border: solid .1rem rgb(0, 0, 0);
+    background-color: rgb(11, 57, 207);
+}
+*{
+    box-sizing: border-box;
+}
+p{
+    color: rgb(177, 14, 14);
+}
+/* theme */
+header, h1{
+    background-color: rgb(11, 57, 207);
+    line-height: 6.5rem;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+
+}
+
+main{
+    max-width: 90.0rem;
+    margin: 5.0rem auto;
+    border: solid .1rem #222;
+    overflow: hidden;
+}
+main ul li img{
+    display: block;
+}
+
+main ul{
+    padding: 1.0rem;
+}
+
+.photo{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+  
+.container {
+    text-align: center;
+    margin-bottom: 2rem;
+}
