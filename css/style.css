@@ -68,7 +68,7 @@ main ul{
 footer{
     text-align: center;
 }
-  
+
 /*Reset CSS*/
 *{
     margin: 0px;
@@ -79,7 +79,7 @@ nav, ul{
     list-style-type: none;
 }
 
-nav, li {
+nav {
     float: left;
 }
 
@@ -144,5 +144,6 @@ nav{
   }
 
 details{
-    color: ivory;
+    color: rgb(255, 255, 255);
+    margin: 25px;
 }
