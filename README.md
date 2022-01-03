@@ -92,3 +92,153 @@
 </body>
 </html>
 '''
+
+'''css
+    html{
+    font-size: 62.5% ;
+    scroll-behavior: smooth;
+    background-image: url(https://voyage-onirique.com/wp-content/uploads/2019/05/WallpaperStudio10-119390-landscape.jpg);
+}
+
+img {
+	width: 100px;
+	height: 100px;
+    vertical-align:middle;
+}
+
+body{
+    font: 1.6rem arial;
+    margin: 0rem;
+}
+
+
+ol, ul, li{
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    margin: 30px;
+    padding: 6px;
+    list-style: none;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    margin: 30px;
+
+    
+}
+/* theme */
+header, h1{
+    background-color: rgb(0, 0, 0);
+    line-height: 6.5rem;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+
+}
+
+main{
+    max-width: 130.0rem;
+    margin: 5.0rem auto;
+    overflow: hidden;
+    background-color: rgba(48, 45, 47, 0.719);
+}
+main ul li img{
+    display: block;
+}
+
+main ul{
+    padding: 1.0rem;
+}
+
+.photo{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+  
+/*Reset CSS*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav, ul{
+    list-style-type: none;
+}
+
+nav, li {
+    float: left;
+}
+
+nav ul ::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+nav li{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+nav{
+    width: 100%;
+    margin: 0 auto;
+}
+nav a{
+     display: block;
+     text-decoration: none;
+     color: rgb(0, 0, 0);
+}
+
+nav a :hover{
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(102, 255, 0);
+}
+
+nav a{
+    display: block;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    border-bottom: 2px solid transparent;
+}
+
+nav a{
+    display: block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid transparent;
+    padding: 10px 0px;
+}
+
+nav a{
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+nav{
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    top: 0px;
+}
+
+/*##############################################################*/
+#cadre {
+    border-radius: 10px;
+  }
+
+
+'''
