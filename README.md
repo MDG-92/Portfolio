@@ -4,9 +4,7 @@
 
 Ce portfolio est un exemple de modèle de structuration : html css.
 
-[Afficher le portfolio]("https://github.com/MDG-92/Portfolio.git")
-
-![screenshot]("")
+[Afficher le portfolio](https://github.com/MDG-92/Portfolio.git "Voir le portfolio"))
 
 * Navigation
 * Contenu
